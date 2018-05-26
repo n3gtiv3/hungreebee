@@ -1,0 +1,28 @@
+{
+  "name": "hungrybee",
+  "version": "0.1.0",
+  "description": "A slack bot for ordering food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3gtiv3/hungrybee.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "food",
+    "order"
+  ],
+  "author": "Dhiraj.Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n3gtiv3/hungrybee/issues"
+  },
+  "homepage": "https://github.com/n3gtiv3/hungrybee#readme",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  }
+}
